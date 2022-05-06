@@ -1,2 +1,3 @@
-# svg-images
-SVG images
+# SVG image materials
+
+* `gradients.svg`: Gradients collection
